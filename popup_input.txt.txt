@@ -1,1 +1,0 @@
-myValue = InputBox("Give me some input", "Hi", 1)
